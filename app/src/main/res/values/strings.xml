@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">RemindWater</string>
+    <string name="uongnuoc">Uống nước</string>
+    <string name="soluong">1000</string>
+    <string name="donvi">ml</string>
+    <string name="tu2500">từ 2500ml</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="dulieu">Dữ liệu hàng ngày</string>
+    <string name="lichsu">Lịch Sử</string>
+    <string name="keogian">Kéo giãn</string>
+    <string name="hihi">Hihi</string>
+    <string name="haha">Haha</string>
+    <string name="trangchu">Trang chủ</string>
+    <string name="theodoi">Theo dõi</string>
+    <string name="caidat">Cài đặt</string>
+    <string name="theodoicannang">Theo dõi cân nặng</string>
+    <string name="thosau">Thở sâu</string>
+
+    <string-array name="names">
+
+        <item>100 ml</item>
+        <item>200 ml</item>
+        <item>300 ml</item>
+        <item>400 ml</item>
+        <item>500 ml</item>
+    </string-array>
+</resources>
